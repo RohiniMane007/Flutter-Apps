@@ -1,6 +1,5 @@
 # Global ignores
 .DS_Store
-.gitignore
 
 # currency_converter ignores
 .dart_tool/
