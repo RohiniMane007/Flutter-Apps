@@ -1,0 +1,8 @@
+# Global ignores
+.DS_Store
+
+# currency_converter ignores
+.dart_tool/
+.packages
+build/
+pubspec.lock
